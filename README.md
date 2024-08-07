@@ -89,7 +89,8 @@ Here are some ideas to get you started:
 ## 🏆 Trophies:
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=drakeRAGE&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
+<!-- <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=drakeRAGE&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" /> -->
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=drakeRAGE&row=4&theme=onedark&no-frame=true&title=Stars,Commits,PullRequest,Repositories,Issues" />
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
 
