@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=drakeRAGE&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-🔭 I’m currently working on **Blogging Website** using React.js, Next.js and Material UI <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
-
-🏫 I’m currently learning **MERN Full Stack Development**
+🔭 I’m currently working on **CLI foundation** using Go and TypeScript (pretty basic) <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
