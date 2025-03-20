@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
-💻 Portfolio Project **[Deepak Joshi - Portfolio](https://portfolio-deepak-joshi.vercel.app/)**
+💻 Portfolio **[Deepak Joshi - Portfolio](https://portfolio-deepak-joshi.vercel.app/)**
 
 💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
 
