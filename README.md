@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 💻 Portfolio **[Deepak Joshi - Portfolio](https://portfolio-deepak-joshi.vercel.app/)**
 
-💬 Ask me about **Frontend Development, MERN Full Stack Development, Data Structure and Algorithm**
-
 💗 Love to talk about **Research and Innovation!**
 
 📫 How to reach me **crashbrown2004@gmail.com**
