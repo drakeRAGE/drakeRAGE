@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on **CLI foundation** using Go and TypeScript (pretty basic) <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
-🔎 I’m actively looking to collaborate on **Open source Project**
+🔎 I’m actively looking to create and collaborate on **Open source Project**
 
 💻 Portfolio **[Deepak Joshi - Portfolio](https://portfolio-deepak-joshi.vercel.app/)**
 
 💗 Love to talk about **Research and Innovation!**
 
-📫 How to reach me **crashbrown2004@gmail.com**
+<!--📫 How to reach me **crashbrown2004@gmail.com**-->
 
 ## 🔰 Let's Connect:
 
