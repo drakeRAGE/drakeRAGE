@@ -101,3 +101,8 @@ Here are some ideas to get you started:
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=drakeRAGE&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+
+## 🏆 Digital Badges
+Hacktoberfest 2025
+[![An image of @drakerage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drakerage)](https://holopin.io/@drakerage)
+
