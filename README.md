@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔎 I’m actively looking to create and collaborate on **Open source Project**
 
-💻 Portfolio **[Deepak Joshi - Portfolio](https://portfolio-deepak-joshi.vercel.app/)**
+💻 Portfolio **[Deepak Joshi - Portfolio](https://deepak-joshi.in/)**
 
 💗 Love to talk about **Research and Innovation!**
 
