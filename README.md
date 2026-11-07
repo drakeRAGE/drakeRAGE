@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Deepak Joshi (@drakeRAGE)</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drakeRAGE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <strong>Full-stack engineer</strong> based in India — backend & distributed systems, realtime products, and applied research.
 </p>
 
@@ -22,42 +26,8 @@ Open to collaborating on **open source** and **production-grade** backends.
 
 ---
 
-## Featured repositories
-
-| Project | Focus |
-| -------- | ----- |
-| [**Real-Time-Collaborative-Whiteboard**](https://github.com/drakeRAGE/Real-Time-Collaborative-Whiteboard) | Distributed realtime canvas: multi-service Go, NATS, gRPC, protobuf WS |
-| [**mongo-vs-qdrant-local**](https://github.com/drakeRAGE/mongo-vs-qdrant-local) | Vector DB benchmark methodology & results on consumer hardware |
-| [**CaptureChronicles**](https://github.com/drakeRAGE/CaptureChronicles) | Photography event ops — React, Node, MongoDB, JWT, Firebase |
-| [**Artistly**](https://github.com/drakeRAGE/Artistly) | Artist booking for event planners & managers |
-| [**Security-Flaws**](https://github.com/drakeRAGE/Security-Flaws) | Web security pitfalls & mitigations (TypeScript) |
-| [**SpendWise**](https://github.com/drakeRAGE/SpendWise) | Personal finance tracking — Remix + MongoDB |
-| [**Reverse-Dating**](https://github.com/drakeRAGE/Reverse-Dating) | Social/dating product experiment (Blures) |
-
----
-
-## Stack I reach for
-
-**Languages:** Go · TypeScript · JavaScript · Python  
-
-**Backend:** gRPC · protobuf · NATS · Node/Express · MongoDB · Postgres · Redis · Supabase  
-
-**Frontend:** React · Remix · Vite · Tailwind  
-
-**Ops & quality:** Docker · Kubernetes · GitHub Actions · Postman · SonarQube  
-
-**Also:** React Native · Django (when it fits)
-
----
-
 ## Open source & community
 
-Contributor with teams including **@InterloopConsulting**, **@arviusoftware**, **@Cheetah-AI-in**, and others.
+Contributor with teams including **@InterloopConsulting**, **@arviussoftware**, **@Cheetah-AI-in**, and others.
 
 [![Holopin — Hacktoberfest & badges](https://holopin.me/drakerage)](https://holopin.io/@drakerage)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drakeRAGE&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
