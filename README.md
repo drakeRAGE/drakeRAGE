@@ -34,15 +34,6 @@ Open to collaborating on **open source** and **production-grade** backends.
 
 ---
 
-## Stack I reach for
-
-**Languages:** Go · TypeScript/JavaScript · Python  
-**Backend & data:** gRPC · PostgreSQL · Redis · NATS · Supabase  
-**Frontend:** React · Remix  
-**Ops & quality:** Docker · Kubernetes · CI/CD · observability-minded service design
-
----
-
 ## Open source & community
 
 Contributor with teams including **@InterloopConsulting**, **@arviussoftware**, **@Cheetah-AI-in**, and others.
