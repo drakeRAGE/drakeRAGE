@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack engineer</strong> based in India — backend & distributed systems, realtime products, and applied research.
+  <strong>Full-stack engineer</strong> based in India — distributed systems, realtime products, and applied research.
 </p>
 
 <p align="center">
@@ -16,6 +16,14 @@
 
 ---
 
+## Recognition
+
+**Winner — [Workday DevCon 2026](https://www.workday.com/) Bengaluru · Open Developer Award**
+
+> Honored for open, community-focused developer work at Workday’s Bengaluru developer conference (DevCon 2026).
+
+---
+
 ## What I'm building
 
 - **Realtime collaborative whiteboard** — Go microservices, gRPC, NATS JetStream, protobuf WebSockets, React 19, Supabase, Redis.
@@ -23,6 +31,15 @@
 - **Product work** — event/photography platforms, artist booking, security education tooling, and full-stack apps with Remix/MERN.
 
 Open to collaborating on **open source** and **production-grade** backends.
+
+---
+
+## Stack I reach for
+
+**Languages:** Go · TypeScript/JavaScript · Python  
+**Backend & data:** gRPC · PostgreSQL · Redis · NATS · Supabase  
+**Frontend:** React · Remix  
+**Ops & quality:** Docker · Kubernetes · CI/CD · observability-minded service design
 
 ---
 
